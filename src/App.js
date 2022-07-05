@@ -16,6 +16,9 @@ function App() {
         <select>
           <option>list</option>
         </select>
+        <select>
+          <option>list2</option>
+        </select>
         <a
           className="App-link"
           href="https://reactjs.org"
