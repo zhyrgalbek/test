@@ -12,7 +12,7 @@ function App() {
         <p>Aiperi</p>
         <p>aktilek</p>
         <form>
-          <input type='text'/>
+          <input type='text' autoFocus/>
           <button>click</button>
         </form>
         <p>burulai</p>
