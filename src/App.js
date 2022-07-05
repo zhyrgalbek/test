@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>Aiperi</p>
         <p>aktilek</p>
+        <p>burulai</p>
         <a
           className="App-link"
           href="https://reactjs.org"
