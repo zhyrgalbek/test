@@ -15,6 +15,8 @@ function App() {
           <input type='text'/>
           <button>click</button>
         </form>
+        <p>burulai</p>
+        <p>all</p>
         <a
           className="App-link"
           href="https://reactjs.org"
