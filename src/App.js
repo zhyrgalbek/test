@@ -13,6 +13,9 @@ function App() {
         <p>aktilek</p>
         <p>burulai</p>
         <p>all</p>
+        <select>
+          <option>list</option>
+        </select>
         <a
           className="App-link"
           href="https://reactjs.org"
