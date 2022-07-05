@@ -11,6 +11,10 @@ function App() {
         </p>
         <p>Aiperi</p>
         <p>aktilek</p>
+        <form>
+          <input type='text'/>
+          <button>click</button>
+        </form>
         <a
           className="App-link"
           href="https://reactjs.org"
