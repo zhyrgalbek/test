@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
         <p>Aiperi</p>
         <p>aktilek</p>
         <form>
-          <input type='text' autoFocus/>
+          <input type="text" autoFocus />
           <button>click</button>
         </form>
         <p>burulai</p>
@@ -25,9 +25,10 @@ function App() {
         </select>
 
         <nav>
-          <a href='#'>Home</a>
-          <a href='#'>About</a>
-          <p>alllldkemdkemdokddemdcnjnjcnjnjendjenndjendjcjd
+          <a href="#">Home</a>
+          <a href="#">About</a>
+          <p>
+            alllldkemdkemdokddemdcnjnjcnjnjendjenndjendjcjd
             kedkedkedkedekdji3jiekdmkedkndnjj4dn kedjkejdiejdie
             kdmmmmmmmmmmemkdjfrni4jro4jdo4jfnnvj rfmrni4jor o4ko
           </p>
