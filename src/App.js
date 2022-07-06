@@ -23,7 +23,11 @@ function App() {
         <select>
           <option>list2</option>
         </select>
-
+        <main>
+          <section>
+            <p>hello</p>
+          </section>
+        </main>
         <nav>
           <a href="#">Home</a>
           <a href="#">About</a>
