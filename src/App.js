@@ -27,6 +27,7 @@ function App() {
         >
           Learn React
         </a>
+        <footer>email</footer>
       </header>
     </div>
   );
